@@ -8,7 +8,7 @@ This portfolio is designed with a strong emphasis on clean layouts, smooth inter
 
 ---
 <h2 align="center">
-  🚀 https://aymaan-hs.github.io/Portfolio-Website-V2.0/
+  🚀  https://aymaan-hs.github.io/
 </h2>
 
     
